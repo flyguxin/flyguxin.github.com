@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: 
+
+Sitemap: http://flyguxin.github.com/sitemap.xml 
