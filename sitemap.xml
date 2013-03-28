@@ -1,15 +1,19 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <urlset xmlns='http://www.sitemaps.org/schemas/sitemap/0.9'>
     <url>
+        <loc>http://flyguxin.github.com/blog/2013/03/28/bu-ji-fang-zong-ai-zi-you/</loc>
+        <lastmod>2013-03-28T19:59:02+08:00</lastmod>
+    </url>
+    <url>
         <loc>http://flyguxin.github.com/blog/archives/</loc>
-        <lastmod>2013-03-28T19:05:35+08:00</lastmod>
+        <lastmod>2013-03-28T19:59:02+08:00</lastmod>
     </url>
     <url>
         <loc>http://flyguxin.github.com/</loc>
-        <lastmod>2013-03-28T19:05:35+08:00</lastmod>
+        <lastmod>2013-03-28T19:59:02+08:00</lastmod>
     </url>
     <url>
         <loc>http://flyguxin.github.com/robots.txt</loc>
-        <lastmod>2013-03-28T19:05:35+08:00</lastmod>
+        <lastmod>2013-03-28T19:33:48+08:00</lastmod>
     </url>
 </urlset>
